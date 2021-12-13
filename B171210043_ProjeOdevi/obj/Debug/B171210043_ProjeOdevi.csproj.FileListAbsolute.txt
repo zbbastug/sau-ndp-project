@@ -1,0 +1,10 @@
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\bin\Debug\B171210043_ProjeOdevi.exe.config
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\bin\Debug\B171210043_ProjeOdevi.exe
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\bin\Debug\B171210043_ProjeOdevi.pdb
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.csprojAssemblyReference.cache
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.Form1.resources
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.Properties.Resources.resources
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.exe
+C:\Users\ZEYNEP BURCU\Desktop\B171210043_ProjeOdevi\B171210043_ProjeOdevi\obj\Debug\B171210043_ProjeOdevi.pdb
